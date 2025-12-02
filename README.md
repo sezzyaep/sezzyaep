@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezzyaep" alt="sezzyaep" /></a> </p>
 
-- 🔭 I’m currently working on [terrority.club](https://terrority.club/)
-- 🔭 My second project is [frezzyhook.com](https://frezzyhook.com/)
+- 🔭 I’m currently working on [frezzyhook.club](https://frezzyhook.club/)
+- 🔭 My second project is [frezzyhook.com](https://frezzyhook.com/) (not anymore :) )
 
 - 🌱 I’m currently learning **Cracking Softwares**
 
